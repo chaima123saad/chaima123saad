@@ -11,12 +11,12 @@
 Languages and Tools
 <p align="left>
 <img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/d2a3e2c7-dbc0-46aa-8118-e1b30ea5d7d6" height="60" width="60"/>
-<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/e10176b4-604d-478b-bf87-26fd8f097126" height="60" width="60"/>
-<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/12740802-da71-4d0d-b24a-8a586296066a" height="60" width="60"/>
-<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/5161faeb-a4ab-405f-8218-eef5df864278" height="60" width="60"/>
-<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/4b02085e-0e63-4e24-9626-ea5d0ac9d4a4" height="60" width="60"/>
-<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/1d756e30-394f-4688-860f-0e822a316649" height="60" width="60"/>
-<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/f1ef0052-539b-45cf-8c3d-b950c73b3063" height="60" width="60"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/e10176b4-604d-478b-bf87-26fd8f097126" height="60" width="80"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/12740802-da71-4d0d-b24a-8a586296066a" height="60" width="80"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/5161faeb-a4ab-405f-8218-eef5df864278" height="60" width="80"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/4b02085e-0e63-4e24-9626-ea5d0ac9d4a4" height="60" width="80"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/1d756e30-394f-4688-860f-0e822a316649" height="60" width="80"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/f1ef0052-539b-45cf-8c3d-b950c73b3063" height="60" width="80"/>
   </p>
 <!---
 chaima123saad/chaima123saad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
