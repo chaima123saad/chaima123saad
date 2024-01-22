@@ -11,7 +11,6 @@
 Languages and Tools
 <p align="left>
 <img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/12740802-da71-4d0d-b24a-8a586296066a" height="60" width="80"/>
-<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/51628743-f077-4b4d-8624-05ee6e081aff" height="60" width="80"/>
 <img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/d2a3e2c7-dbc0-46aa-8118-e1b30ea5d7d6" height="60" width="60"/>
 <img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/e10176b4-604d-478b-bf87-26fd8f097126" height="60" width="60"/>
 <img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/12740802-da71-4d0d-b24a-8a586296066a" height="60" width="60"/>
