@@ -9,11 +9,13 @@
 ⚡ Fun fact: Beyond coding, I find joy in playing basketball. I firmly believe that achieving a balance between work and play is crucial for a fulfilling life.
 
 Languages and Tools
-![react-logo](https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/12740802-da71-4d0d-b24a-8a586296066a)
-![Node js-Logo wine](https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/51628743-f077-4b4d-8624-05ee6e081aff)
-![R](https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/3e41e3c8-bee8-44cc-aa39-2ce63440376f)
-![OIP](https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/d2a3e2c7-dbc0-46aa-8118-e1b30ea5d7d6)
-![flutter-logo](https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/e10176b4-604d-478b-bf87-26fd8f097126)
+<p align="left>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/12740802-da71-4d0d-b24a-8a586296066a" height="40" width="40"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/51628743-f077-4b4d-8624-05ee6e081aff" height="40" width="40"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/3e41e3c8-bee8-44cc-aa39-2ce63440376f" height="40" width="40"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/d2a3e2c7-dbc0-46aa-8118-e1b30ea5d7d6" height="40" width="40"/>
+<img src="https://github.com/chaima123saad/Personnel-Management-System/assets/129409841/e10176b4-604d-478b-bf87-26fd8f097126" height="40" width="40"/>
+  </p>
 <!---
 chaima123saad/chaima123saad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
