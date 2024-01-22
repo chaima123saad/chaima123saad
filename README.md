@@ -8,6 +8,8 @@
 
 ⚡ Fun fact: Beyond coding, I find joy in playing basketball. I firmly believe that achieving a balance between work and play is crucial for a fulfilling life.
 
+Languages and Tools
+
 <!---
 chaima123saad/chaima123saad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
