@@ -1,11 +1,12 @@
-- 👋 Hi, I'm Chaima Saad! I am a passionate software engineering student in my first year of master's,
-  with a keen interest in web development. Currently, I am diving into the world of the MERN stack,
-  exploring the ins and outs of MongoDB, Express.js, React.js, and Node.js.
-- 👀 I’m interested in Web Developpement
-- 🌱 Learning and growth are at the heart of my journey as I navigate the dynamic landscape of modern web development technologies.
-   I enjoy tackling coding challenges and building web applications that bring ideas to life.
-- 😄 Pronouns: she
-- ⚡ Fun fact: Outside of coding, I enjoy playing basketball, and I believe that a balance between work and play is essential for a fulfilling life.
+👋 Hi, I'm Chaima Saad, a first-year master's student passionate about software engineering with a focus on web development.
+
+👀 I'm currently delving into the MERN stack, exploring MongoDB, Express.js, React.js, and Node.js.
+
+🌱 Learning and growth are central to my journey in modern web development. I love tackling coding challenges and bringing ideas to life through web applications.
+
+😄 Pronouns: she
+
+⚡ Fun fact: Beyond coding, I find joy in playing basketball. I firmly believe that achieving a balance between work and play is crucial for a fulfilling life.
 
 <!---
 chaima123saad/chaima123saad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
