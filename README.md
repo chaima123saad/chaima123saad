@@ -1,4 +1,4 @@
-👋 Hi, I'm Chaima Saad, a first-year master's student passionate about software engineering with a focus on web development.
+👋 Hi, I'm Chaima Saad a software engineering.
 
 👀 I'm currently delving into the MERN stack, exploring MongoDB, Express.js, React.js, and Node.js.
 
