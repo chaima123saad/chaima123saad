@@ -1,7 +1,4 @@
-👋 Hi, I'm Chaima Saad a software engineering.
-
-👀 I'm currently delving into the MERN stack, exploring MongoDB, Express.js, React.js, and Node.js.
-
+👋 Hi, I'm Chaima Saad a software engineering student.
 🌱 Learning and growth are central to my journey in modern web development. I love tackling coding challenges and bringing ideas to life through web applications.
 
 Languages and Tools
