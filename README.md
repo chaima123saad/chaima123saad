@@ -1,4 +1,4 @@
-👋 Hi, I'm Chaima Saad a software engineering.
+👋 Hi, I'm Chaima Saad a software engineer.
 🌱 Learning and growth are central to my journey in modern web development. I love tackling coding challenges and bringing ideas to life through web applications.
 
 Languages and Tools
